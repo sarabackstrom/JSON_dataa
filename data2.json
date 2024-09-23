@@ -1,0 +1,24 @@
+{
+    "opintojakso": "Kuntoliikunta",
+    "osallistujamäärä": "3",
+    "kesto_viikko": 5,
+    "pvm": {
+        "aloituspvm": "27.10.2024",
+        "lopetuspvm": "12.12.2024"
+    },
+    "osallistuja": [
+        {
+            "etunimi": "Sara",
+            "sukunimi": "Bäckström"
+        },
+        {
+            "etunimi": "Erkki",
+            "sukunimi": "Esimerkki"
+        },
+        {
+            "etunimi": "Into",
+            "sukunimi": "Innokas"
+        }
+    ],
+    "kuva": "https://raw.githubusercontent.com/sarabackstrom/liikunnan_kotisivut/407aefc342a7b2efd702bdb5fc889b976f1144dc/john-schnobrich-2FPjlAyMQTA-unsplash%20(1).jpg"
+}
